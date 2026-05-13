@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_avatar_bot.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_avatar_bot.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/layout_item_message_received.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_ic_bot.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/ic_bot.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_ic_send.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_bubble_received.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_bubble_received.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_avatar_user.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_avatar_user.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_input_bar.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_input_bar.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/layout_item_message_received.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_username_field.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_username_field.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_bubble_sent.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_bubble_sent.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_btn_go.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_btn_go.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_avatar_bot.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_avatar_bot.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/layout_item_message_sent.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/layout_activity_chat.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_send_button.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_send_button.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_ic_bot.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/ic_bot.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_bubble_sent.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_bubble_sent.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_send_button.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_send_button.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_input_bar.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_input_bar.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_bubble_received.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_bubble_received.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_username_field.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_username_field.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/layout_item_message_sent.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/layout_activity_chat.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_bg_gradient.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-debug-38:/drawable_bg_btn_go.xml.flat",
+        "source": "com.example.llmchatbot.app-main-40:/drawable/bg_btn_go.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

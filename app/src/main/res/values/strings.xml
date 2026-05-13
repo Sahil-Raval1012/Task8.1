@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LLM ChatBot</string>
+    <string name="welcome_title">Welcome,</string>
+    <string name="welcome_subtitle">Lets Chat!</string>
+    <string name="hint_username">Username</string>
+    <string name="btn_go">Go</string>
+    <string name="hint_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="welcome_message">Welcome %1$s! How can I help you today?</string>
+    <string name="error_empty_username">Please enter your username</string>
+    <string name="error_api">Failed to get response. Check your API key.</string>
+    <string name="typing">Typing…</string>
+    <string name="groq_api_key">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</string>
+</resources>

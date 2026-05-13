@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.LLMChatBot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_start</item>
+        <item name="colorPrimaryVariant">@color/blue_end</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:windowBackground">@color/blue_start</item>
+    </style>
+</resources>

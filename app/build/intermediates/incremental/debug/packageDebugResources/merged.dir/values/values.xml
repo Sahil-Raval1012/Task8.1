@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="avatar_bot_bg">#FFFFFF</color>
+    <color name="avatar_user_bg">#1565C0</color>
+    <color name="blue_end">#5c9eeb</color>
+    <color name="blue_start">#275c99</color>
+    <color name="bubble_received">#E0E0E0</color>
+    <color name="bubble_sent">#b3e8b4</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="green_button">#4CAF50</color>
+    <color name="green_button_pressed">#388E3C</color>
+    <color name="input_bg">#FFFFFF</color>
+    <color name="send_btn_bg">#29B6F6</color>
+    <color name="status_bar">#0277BD</color>
+    <color name="text_dark">#000000</color>
+    <color name="text_hint">#757575</color>
+    <color name="timestamp_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">LLM ChatBot</string>
+    <string name="btn_go">Go</string>
+    <string name="error_api">Failed to get response. Check your API key.</string>
+    <string name="error_empty_username">Please enter your username</string>
+    <string name="groq_api_key">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</string>
+    <string name="hint_message">Type a message…</string>
+    <string name="hint_username">Username</string>
+    <string name="send">Send</string>
+    <string name="typing">Typing…</string>
+    <string name="welcome_message">Welcome %1$s! How can I help you today?</string>
+    <string name="welcome_subtitle">Lets Chat!</string>
+    <string name="welcome_title">Welcome,</string>
+    <style name="Theme.LLMChatBot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue_start</item>
+        <item name="colorPrimaryVariant">@color/blue_end</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:windowBackground">@color/blue_start</item>
+    </style>
+</resources>

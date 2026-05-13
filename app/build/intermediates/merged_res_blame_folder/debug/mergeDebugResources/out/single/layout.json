@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.llmchatbot.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.llmchatbot.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-mergeDebugResources-37:/layout/item_message_received.xml",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-mergeDebugResources-37:/layout/item_message_sent.xml",
+        "source": "com.example.llmchatbot.app-main-40:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-mergeDebugResources-37:/layout/item_message_sent.xml",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-mergeDebugResources-37:/layout/activity_chat.xml",
+        "source": "com.example.llmchatbot.app-main-40:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.llmchatbot.app-mergeDebugResources-37:/layout/item_message_received.xml",
+        "source": "com.example.llmchatbot.app-main-40:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-mergeDebugResources-37:/layout/activity_chat.xml",
+        "source": "/Users/prakashraval/.gradle/daemon/8.6/com.example.llmchatbot.app-main-40:/layout/activity_chat.xml"
+    }
+]

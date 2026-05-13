@@ -1,0 +1,6 @@
+-keep class com.example.llmchatbot.network.** { *; }
+-keep class com.example.llmchatbot.data.db.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
