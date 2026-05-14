@@ -3888,7 +3888,6 @@ int string error_icon_content_description 0x7f0f0033
 int string exposed_dropdown_menu_content_description 0x7f0f0034
 int string fab_transformation_scrim_behavior 0x7f0f0035
 int string fab_transformation_sheet_behavior 0x7f0f0036
-int string groq_api_key 0x7f0f0037
 int string hide_bottom_view_on_scroll_behavior 0x7f0f0038
 int string hint_message 0x7f0f0039
 int string hint_username 0x7f0f003a

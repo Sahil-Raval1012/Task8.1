@@ -3889,7 +3889,6 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
-string groq_api_key
 string hide_bottom_view_on_scroll_behavior
 string hint_message
 string hint_username

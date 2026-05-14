@@ -52,7 +52,6 @@ string app_name
 string btn_go
 string error_api
 string error_empty_username
-string groq_api_key
 string hint_message
 string hint_username
 string send
